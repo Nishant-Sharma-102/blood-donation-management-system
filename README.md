@@ -1,4 +1,5 @@
-# Bloodline
+# Blood Donation Management System
+
 
 Bloodline is a **J2EE-based Blood Donation Management System** developed to manage blood donors, blood requests, and user authentication.  
 The project demonstrates core **Java Enterprise Edition (J2EE)** concepts with a clean backend architecture.
@@ -44,3 +45,4 @@ The project demonstrates core **Java Enterprise Edition (J2EE)** concepts with a
 **Nishant Sharma**  
 Final Year B.Tech Student  
 Java / J2EE Developer
+
